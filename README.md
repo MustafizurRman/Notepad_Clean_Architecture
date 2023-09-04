@@ -1,0 +1,1 @@
+# Notepad_Clean_Architecture
